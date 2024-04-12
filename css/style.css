@@ -1,0 +1,39 @@
+body {
+    background-color: bisque;
+}
+.img-float {
+    height: 200px;
+    float: left;
+    margin:0 20px 0 100px;
+}
+.text {
+    font-size: 26px;
+}
+.conteiner {
+    border: 2px black solid;
+    border-radius: 7px;
+    background-color: beige;
+    padding: 2%;
+    overflow: auto;
+    margin-bottom: 10px;
+}
+.float {
+    float: right;
+    height: 150px;
+    border-radius: 2px;
+}
+.copil {
+    float: left;
+    overflow: auto;
+    width: 350px;
+    height: 400px;
+    background-color: rgb(170, 214, 255);
+    border: 2px solid rgb(85, 87, 196);
+    border-radius: 7px;
+    padding: 10px;
+    margin: 2%;
+}
+.mama {
+    overflow: auto;
+    min-height: 600px;
+}
